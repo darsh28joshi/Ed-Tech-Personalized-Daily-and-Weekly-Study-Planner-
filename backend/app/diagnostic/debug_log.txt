@@ -1,0 +1,51 @@
+session_questions=49
+response_questions=49
+qid=90 source=APTITUDE section=Aptitude section text=Which letter comes next: A, C,
+qid=91 source=APTITUDE section=Aptitude section text=A pattern repeats as circle, s
+qid=117 source=APTITUDE section=Aptitude section text=A student scored 18, 15, 17 an
+qid=118 source=APTITUDE section=Aptitude section text=A library had 250 books. It re
+qid=85 source=APTITUDE section=Aptitude section text=Choose the word that best comp
+qid=119 source=APTITUDE section=Aptitude section text=In a survey of 100 students, 3
+qid=79 source=APTITUDE section=Aptitude section text=P is older than Q. R is younge
+qid=49 source=ACADEMIC section=Mathematics text=If 3 out of 8 equal parts of a
+qid=241 source=ACADEMIC section=Mathematics text=An angle measuring 90 degrees 
+qid=140 source=ACADEMIC section=Mathematics text=In the decimal number 12.35, w
+qid=246 source=ACADEMIC section=Mathematics text=Evaluate: (-36) ÷ 9
+qid=144 source=ACADEMIC section=Mathematics text=What is the ratio of 45 minute
+qid=52 source=ACADEMIC section=Mathematics text=What is the mixed fraction for
+qid=251 source=ACADEMIC section=Mathematics text=If the HCF of two numbers is 6
+qid=257 source=ACADEMIC section=Science text=Which part of the plant absorb
+qid=65 source=ACADEMIC section=Science text=What is the capital city of In
+qid=154 source=ACADEMIC section=Science text=What type of motion is exhibit
+qid=261 source=ACADEMIC section=Science text=Autotrophic plants prepare the
+qid=66 source=ACADEMIC section=Science text=The sphere of water that cover
+qid=156 source=ACADEMIC section=Science text=Which of the following plants 
+qid=266 source=ACADEMIC section=Science text=Why does water exhibit anomalo
+qid=177 source=ACADEMIC section=History and Civics text=Which of the following was one
+qid=288 source=ACADEMIC section=History and Civics text=Where was Chhatrapati Shivaji 
+qid=76 source=ACADEMIC section=History and Civics text=What is 'History'?
+qid=291 source=ACADEMIC section=History and Civics text=Which saint played a key role 
+qid=172 source=ACADEMIC section=History and Civics text=The famous Great Bath was disc
+qid=81 source=ACADEMIC section=History and Civics text=The period before the Common E
+qid=296 source=ACADEMIC section=History and Civics text=Before Swaraj, who were the tw
+qid=181 source=ACADEMIC section=Geography text=What are the horizontal angula
+qid=272 source=ACADEMIC section=Geography text=When the Moon comes between th
+qid=273 source=ACADEMIC section=Geography text=Tides in the ocean are primari
+qid=185 source=ACADEMIC section=Geography text=The average atmospheric condit
+qid=276 source=ACADEMIC section=Geography text=High tides that occur on New M
+qid=187 source=ACADEMIC section=Geography text=Which region of the Earth rece
+qid=195 source=ACADEMIC section=Geography text=Why do plants in desert biomes
+qid=33 source=ACADEMIC section=Hindi text='माँ' शब्द का पर्यायवाची शब्द 
+qid=123 source=ACADEMIC section=Hindi text='सत्य' शब्द का सही विलोम शब्द 
+qid=227 source=ACADEMIC section=Hindi text=‘फूल और काँटे’ कविता के कवि कौ
+qid=231 source=ACADEMIC section=Hindi text=दादी माँ ने संकट के समय चिड़ियो
+qid=37 source=ACADEMIC section=Hindi text=बधाई कार्ड का प्रयोग कब किया ज
+qid=130 source=ACADEMIC section=Hindi text='मेरे को बाजार जाना है।' इस अश
+qid=236 source=ACADEMIC section=Hindi text=‘फूल और काँटे’ के माध्यम से कव
+qid=19 source=ACADEMIC section=Marathi text='झाड' या शब्दाचा समानार्थी शब्
+qid=108 source=ACADEMIC section=Marathi text='सूर्य' या शब्दाचा योग्य समाना
+qid=212 source=ACADEMIC section=Marathi text=‘श्यामचे बंधुप्रेम’ या पाठाचे 
+qid=111 source=ACADEMIC section=Marathi text='तो हुशार मुलगा आहे.' या वाक्य
+qid=216 source=ACADEMIC section=Marathi text=श्यामने लहान भावासाठी काय शिवू
+qid=21 source=ACADEMIC section=Marathi text=मिनूला मिळालेली पिसे कोणाची हो
+qid=221 source=ACADEMIC section=Marathi text=श्यामने पावसात नदी-नाले भरलेले
